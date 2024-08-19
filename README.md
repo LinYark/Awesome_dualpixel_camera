@@ -44,10 +44,14 @@ Cloned from [Dual Pixel](https://github.com/tkuri/Awesome-DualPixel/blob/main/RE
 |2022|WACV|[Improving Single-Image Defocus Deblurring: How Dual-Pixel Images Help Through Multi-Task Learning](https://arxiv.org/abs/2108.05251)|Deblur|[Code & Dataset](https://github.com/Abdullah-Abuolaim/multi-task-defocus-deblurring-dual-pixel-nimat)|
 |2022|ISSCC|[A 1/1.57-inch 50Mpixel CMOS Image Sensor With 1.0μm All-Directional Dual Pixel by 0.5μm-Pitch Full-Depth Deep-Trench Isolation Technology](https://ieeexplore.ieee.org/document/9731567)|Circuits||
 |2022|ECCV|[Facial Depth and Normal Estimation using Single Dual-Pixel Camera](https://arxiv.org/abs/2111.12928)|Depth / Surface Normal / Anti-spoofing / Relighting|[Code & Dataset](https://github.com/MinJunKang/DualPixelFace)|
+|2022|ARXIV|[Learning Dual-Pixel Alignment for Defocus Deblurring](https://arxiv.org/abs/2204.12105v1)|Deblur||
+|2022|Journal of Image and Graphing|[全像素双核成像技术及应用研究综述](http://www.cjig.cn/jig/ch/reader/view_abstract.aspx?file_no=20221201)|Summarize||
+|2022|ARXIV|[Dual-Pixel Raindrop Removal](https://arxiv.org/pdf/2210.13321)|Raindrop|http://www.ok.sc.e.titech.ac.jp/res/SIR/|
 |2023|CVPR|[K3DN: Disparity-Aware Kernel Estimation for Dual-Pixel Defocus Deblurring](https://openaccess.thecvf.com/content/CVPR2023/html/Yang_K3DN_Disparity-Aware_Kernel_Estimation_for_Dual-Pixel_Defocus_Deblurring_CVPR_2023_paper.html)|Deblur||
 |2023|CVPR|[Spatio-Focal Bidirectional Disparity Estimation From a Dual-Pixel Image](https://openaccess.thecvf.com/content/CVPR2023/html/Kim_Spatio-Focal_Bidirectional_Disparity_Estimation_From_a_Dual-Pixel_Image_CVPR_2023_paper.html)|Depth / Disparity|[Code](https://github.com/KAIST-VCLAB/dual-pixel-disparity)|
 |2023|ICCP|[Learning to Synthesize Photorealistic Dual-pixel Images from RGBD frames](https://ai.sony/publications/Learning-to-Synthesize-Photorealistic-Dual-pixel-Images-from-RGBD-frames/)|Simulator|[Code & Dataset](https://github.com/feiran-l/Neural-Dual-Pixel-Simulator)|
 |2023|ICCV|[Exploring Positional Characteristics of Dual-Pixel Data for Camera Autofocus](https://openaccess.thecvf.com/content/ICCV2023/html/Choi_Exploring_Positional_Characteristics_of_Dual-Pixel_Data_for_Camera_Autofocus_ICCV_2023_paper.html)|Autofocus||
+|2024|ACM Trans. Graph.|[Split-Aperture 2-in-1 Computational Cameras](https://dl.acm.org/doi/10.1145/3658225)|Depth /  HDR|[Code](https://github.com/princeton-computational-imaging/2in1_camera)|
 
 
 ## Dataset
