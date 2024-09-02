@@ -18,9 +18,10 @@ Cloned from [Dual Pixel](https://github.com/tkuri/Awesome-DualPixel/blob/main/RE
 ## Lens
 |Year|Pub|Paper|App|Repo|
 |:---:|:---:|:---:|:---:|:---:|
-|2018|SIGGRAPH|[Synthetic Depth-of-Field with a Single-Camera Mobile Phone](https://arxiv.org/abs/1806.04171)|Depth / Segmenation / Synthetic DoF||
-
-
+|2022|Nature Communications|[Curriculum Learning for ab initio Deep Learned Refractive Optics (DeepLens)](https://www.nature.com/articles/s41467-024-50835-7)|Lens|[Code](https://github.com/singer-yang/AutoLens)|
+|2023|ICCP & TPAMI|[Aberration-Aware Depth-from-Focus](https://singer-yang.github.io/papers/AberAwareDfF.pdf)|Lens|[Code](https://github.com/singer-yang/Aberration-Aware-Depth-from-Focus)|
+|2024|Arxiv|[Image Quality Is Not All You Want: Task-Driven Lens Design for Image Classification](https://singer-yang.github.io/papers/TaskLens.pdf)|Lens||
+|2024|Arxiv|[End-to-End Hybrid Refractive-Diffractive Lens Design with Differentiable Ray-Wave Model](https://arxiv.org/abs/2406.00834)|Diffractive Lens||
 
 ## Dual Pixel
 |Year|Pub|Paper|App|Repo|
@@ -47,6 +48,7 @@ Cloned from [Dual Pixel](https://github.com/tkuri/Awesome-DualPixel/blob/main/RE
 |2022|ARXIV|[Learning Dual-Pixel Alignment for Defocus Deblurring](https://arxiv.org/abs/2204.12105v1)|Deblur||
 |2022|Journal of Image and Graphing|[全像素双核成像技术及应用研究综述](http://www.cjig.cn/jig/ch/reader/view_abstract.aspx?file_no=20221201)|Summarize||
 |2022|ARXIV|[Dual-Pixel Raindrop Removal](https://arxiv.org/pdf/2210.13321)|Raindrop|http://www.ok.sc.e.titech.ac.jp/res/SIR/|
+|2023|ICCV|[Exploring Positional Characteristics of Dual-Pixel Data for Camera Autofocus](https://ieeexplore.ieee.org/document/10376947)|Autofocus||
 |2023|CVPR|[K3DN: Disparity-Aware Kernel Estimation for Dual-Pixel Defocus Deblurring](https://openaccess.thecvf.com/content/CVPR2023/html/Yang_K3DN_Disparity-Aware_Kernel_Estimation_for_Dual-Pixel_Defocus_Deblurring_CVPR_2023_paper.html)|Deblur||
 |2023|CVPR|[Spatio-Focal Bidirectional Disparity Estimation From a Dual-Pixel Image](https://openaccess.thecvf.com/content/CVPR2023/html/Kim_Spatio-Focal_Bidirectional_Disparity_Estimation_From_a_Dual-Pixel_Image_CVPR_2023_paper.html)|Depth / Disparity|[Code](https://github.com/KAIST-VCLAB/dual-pixel-disparity)|
 |2023|ICCP|[Learning to Synthesize Photorealistic Dual-pixel Images from RGBD frames](https://ai.sony/publications/Learning-to-Synthesize-Photorealistic-Dual-pixel-Images-from-RGBD-frames/)|Simulator|[Code & Dataset](https://github.com/feiran-l/Neural-Dual-Pixel-Simulator)|
