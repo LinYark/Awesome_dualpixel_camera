@@ -26,6 +26,7 @@ Cloned from [Dual Pixel](https://github.com/tkuri/Awesome-DualPixel/blob/main/RE
 ## Dual Pixel
 |Year|Pub|Paper|App|Repo|
 |:---:|:---:|:---:|:---:|:---:|
+|2016|ITE Transactions on Media Technology and Applications|[A Low Noise and High Sensitivity Image Sensor with Imaging and Phase-Difference Detection AF in All Pixels](https://www.jstage.jst.go.jp/article/mta/4/2/4_123/_article)|Sensor||
 |2018|SIGGRAPH|[Synthetic Depth-of-Field with a Single-Camera Mobile Phone](https://arxiv.org/abs/1806.04171)|Depth / Segmenation / Synthetic DoF||
 |2019|CVPR|[Reflection Removal Using a Dual-Pixel Sensor](https://abhijithpunnappurath.github.io/dprr.html)|Reflection Removal|[Code](https://github.com/abhijithpunnappurath/dprr)|
 |2019|ICCV|[Learning Single Camera Depth Estimation using Dual-Pixels](https://arxiv.org/abs/1904.05822)|Depth|[Code & Dataset](https://github.com/google-research/google-research/tree/master/dual_pixels)|
@@ -47,7 +48,7 @@ Cloned from [Dual Pixel](https://github.com/tkuri/Awesome-DualPixel/blob/main/RE
 |2022|ECCV|[Facial Depth and Normal Estimation using Single Dual-Pixel Camera](https://arxiv.org/abs/2111.12928)|Depth / Surface Normal / Anti-spoofing / Relighting|[Code & Dataset](https://github.com/MinJunKang/DualPixelFace)|
 |2022|ARXIV|[Learning Dual-Pixel Alignment for Defocus Deblurring](https://arxiv.org/abs/2204.12105v1)|Deblur||
 |2022|Journal of Image and Graphing|[全像素双核成像技术及应用研究综述](http://www.cjig.cn/jig/ch/reader/view_abstract.aspx?file_no=20221201)|Summarize||
-|2022|ARXIV|[Dual-Pixel Raindrop Removal](https://arxiv.org/pdf/2210.13321)|Raindrop|http://www.ok.sc.e.titech.ac.jp/res/SIR/|
+|2022|ARXIV|[Dual-Pixel Raindrop Removal](https://arxiv.org/pdf/2210.13321)|Raindrop|[code](http://www.ok.sc.e.titech.ac.jp/res/SIR/)|
 |2023|ICCV|[Exploring Positional Characteristics of Dual-Pixel Data for Camera Autofocus](https://ieeexplore.ieee.org/document/10376947)|Autofocus||
 |2023|CVPR|[K3DN: Disparity-Aware Kernel Estimation for Dual-Pixel Defocus Deblurring](https://openaccess.thecvf.com/content/CVPR2023/html/Yang_K3DN_Disparity-Aware_Kernel_Estimation_for_Dual-Pixel_Defocus_Deblurring_CVPR_2023_paper.html)|Deblur||
 |2023|CVPR|[Spatio-Focal Bidirectional Disparity Estimation From a Dual-Pixel Image](https://openaccess.thecvf.com/content/CVPR2023/html/Kim_Spatio-Focal_Bidirectional_Disparity_Estimation_From_a_Dual-Pixel_Image_CVPR_2023_paper.html)|Depth / Disparity|[Code](https://github.com/KAIST-VCLAB/dual-pixel-disparity)|
