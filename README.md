@@ -18,7 +18,11 @@ Cloned from [Dual Pixel](https://github.com/tkuri/Awesome-DualPixel/blob/main/RE
 ## Lens
 |Year|Pub|Paper|App|Repo|
 |:---:|:---:|:---:|:---:|:---:|
-|2022|Nature Communications|[Curriculum Learning for ab initio Deep Learned Refractive Optics (DeepLens)](https://www.nature.com/articles/s41467-024-50835-7)|Lens|[Code](https://github.com/singer-yang/AutoLens)|
+|2019|OE|[Extrapolating from lens design databases using deep learning](https://pubmed.ncbi.nlm.nih.gov/31684583/)|Lens||
+|2021|OE|[Deep learning-enabled framework for automatic lens design starting point generation](https://www.semanticscholar.org/paper/Deep-learning-enabled-framework-for-automatic-lens-C%C3%B4t%C3%A9-Lalonde/528e38584706d41bfcd8962fa0bf9eb2f37cf545)|Lens||
+|2022|OE|[Inferring the solution space of microscope objective lenses using deep learning](https://opg.optica.org/viewmedia.cfm?uri=oe-30-5-6531&seq=0)|Lens||
+|2022|NC|[Curriculum Learning for ab initio Deep Learned Refractive Optics (DeepLens)](https://www.nature.com/articles/s41467-024-50835-7)|Lens|[Code](https://github.com/singer-yang/AutoLens)|
+|2023|CVPR|[The differentiable lens: Compound lens search over glass surfaces and materials for object detection](https://arxiv.org/pdf/2212.04441v2)|Lens||
 |2023|ICCP & TPAMI|[Aberration-Aware Depth-from-Focus](https://singer-yang.github.io/papers/AberAwareDfF.pdf)|Lens|[Code](https://github.com/singer-yang/Aberration-Aware-Depth-from-Focus)|
 |2024|Arxiv|[Image Quality Is Not All You Want: Task-Driven Lens Design for Image Classification](https://singer-yang.github.io/papers/TaskLens.pdf)|Lens||
 |2024|Arxiv|[End-to-End Hybrid Refractive-Diffractive Lens Design with Differentiable Ray-Wave Model](https://arxiv.org/abs/2406.00834)|Diffractive Lens||
