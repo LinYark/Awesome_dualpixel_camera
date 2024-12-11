@@ -8,7 +8,7 @@ List of awesome papers on dualpixel camera system, including lenses, dualpixel s
 </p>
 
 ## Attention
-Cloned from [Dual Pixel](https://github.com/tkuri/Awesome-DualPixel/blob/main/README.md), update in future.
+Fork from [Dual Pixel](https://github.com/tkuri/Awesome-DualPixel/blob/main/README.md) and maintained by [linyark](https://linyark.github.io/).
 
 ## Table of contents
 - [Lens](#lens)
